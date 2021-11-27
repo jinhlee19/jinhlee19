@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👊🏼  Studying
+### 👊🏼  Studied
 <p>
   <img src="https://img.shields.io/badge/Nodejs-47597E?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47597E?style=flat-square&logo=MongoDB&logoColor=white"/>  
@@ -33,8 +33,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-47597E?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
-### 👉🏼  Heading to...
+### 👉🏼  Working on...
 <p>
-
   <img src="https://img.shields.io/badge/Vue-47597E?style=flat-square&logo=Vue.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-47597E?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-47597E?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
