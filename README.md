@@ -5,9 +5,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-548CA8?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
 
-### 🙌🏼  Hi there!
-I study web & app development. <br>
-
 <!--
 **jinhlee19/jinhlee19** is a ✨ _special_✨  repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👊🏼  Studied
 <p>
   <img src="https://img.shields.io/badge/Nodejs-47597E?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47597E?style=flat-square&logo=MongoDB&logoColor=white"/>  
@@ -32,8 +28,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/SASS-47597E?style=flat-square&logo=SASS&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-47597E?style=flat-square&logo=React&logoColor=white"/>
 </p>
-
-### 👉🏼  Working on...
 <p>
   <img src="https://img.shields.io/badge/Vue-47597E?style=flat-square&logo=Vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-47597E?style=flat-square&logo=React&logoColor=white"/>
