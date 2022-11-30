@@ -25,11 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express-47597E?style=flat-square&logo=express&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-47597E?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-47597E?style=flat-square&logo=Flutter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SASS-47597E?style=flat-square&logo=SASS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-47597E?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-47597E?style=flat-square&logo=SASS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-47597E?style=flat-square&logo=React&logoColor=white"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Vue-47597E?style=flat-square&logo=Vue.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-47597E?style=flat-square&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flutter-47597E?style=flat-square&logo=Flutter&logoColor=white"/>
-</p>
+
